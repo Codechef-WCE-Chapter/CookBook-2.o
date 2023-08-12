@@ -1,0 +1,39 @@
+GCD of two numbers->
+eg 4 and 12
+4 -> 2^2 * 3^0
+12 -> 2^2 * 3^1
+
+Gcd -> minimum power of both -> 2^2 * 3^0 = 4
+Lcm -> maximum power of both -> 2^2 * 3^1 = 12
+
+Now let take all the powers 
+2^2 * 3^0 * 2^2 * 3^1
+---------------------- = 12(LCM)
+    2^2 * 3^0 (GCD)
+
+so therefore -> a X b
+                ----- = LCM
+                 GCD
+
+
+Euclids Thereom -> Long Division Method
+Every time divisor becomes the dividend
+and remainder becomes the divisor
+
+if a%b == 0 -> Gcd is divisor -> b
+
+int gcd(int a, int b){
+    base case
+    if(a%b == 0) return b;
+
+    return gcd(b, a%b);
+}
+
+Doubt is that always we have to pass a>b?
+-> No it will manage itself
+
+Inbuilt Function ->     __gcd(a, b);
+
+Minimum fraction of a/b = a/gcd(a,b)
+                        --------------
+                          b/gcd(a,b)

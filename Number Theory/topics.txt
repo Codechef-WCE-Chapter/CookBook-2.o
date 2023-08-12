@@ -1,0 +1,24 @@
+                                                    || Number Theory || 
+Topics
+
+Basics : -
+1] Primality test
+2] Prime factorization
+3] sieve of eratosthenes
+4] Binary Exponentiation
+5] Euclid's GCD
+6] Goldback's conjucture
+7] Finding number divisible by n
+8] Calc Binomial Coeff
+9] Segmented Sieve
+
+Advanced : -
+
+1] Extended Euclid's Algorithm
+2] Linear Diophontine equation
+3] Matrix Exponential
+4] Fib in Logn
+5] Chinease Reminder Theorm
+6] Eular Totient Function
+7] Pollar p-1 Method
+8] Pollard Rho algorithm

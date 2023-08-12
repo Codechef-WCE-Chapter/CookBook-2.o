@@ -1,0 +1,13 @@
+Number Theory Quetions
+https://www.codechef.com/problems/PRB01
+https://codeforces.com/problemset/problem/1294/C
+https://leetcode.com/problems/count-primes/
+https://www.hackerearth.com/practice/math/number-theory/primality-tests/practice-problems/algorithm/micro-and-prime-prime-1/
+https://www.spoj.com/problems/TDKPRIME/ 
+https://www.geeksforgeeks.org/program-to-find-prime-numbers-between-given-interval/
+https://www.hackerearth.com/problem/algorithm/interval-count-12/
+https://www.codechef.com/problems/GCDQ?tab=statement
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/algorithm/hacker-with-prime-bebe28ac/
+https://codeforces.com/contest/776/problem/B
+https://www.hackerearth.com/problem/algorithm/monk-and-divisor-conundrum-56e0eb99/
+https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-2/practice-problems/
