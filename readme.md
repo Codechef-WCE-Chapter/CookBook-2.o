@@ -24,4 +24,4 @@ Before you begin, ensure you have the following installed:
 To clone this repository, run the following command in your terminal:
 
 ```bash
-git clone https://github.com/your-username/cookbook-number-theory.git
+git clone https://github.com/Codechef-WCE-Chapter/CookBook-2.o
